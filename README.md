@@ -44,6 +44,16 @@ The application was successfully deployed for internal use and actively supports
 
 ---
 
+## 📄 License
+
+This project was developed as part of an internship at **Telecommunications Consultants India Ltd. (TCIL).**
+
+© 2025 TCIL. This software is intended for **internal demonstration and operational use only.**
+
+Developed by [Yushita Kalra](https://www.linkedin.com/) as an intern.
+
+---
+
 ## 📸 Screenshots
 
 <p align="center">
@@ -77,3 +87,4 @@ The application was successfully deployed for internal use and actively supports
 </p>
 
 ---
+
