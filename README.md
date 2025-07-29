@@ -60,7 +60,7 @@ The application was successfully deployed for internal use and actively supports
   <img width="450" alt="VF-3" src="https://github.com/user-attachments/assets/63f1b3df-c0ea-4b8d-9301-10fb93ff723a" />
 
   <b>Visitor Pass</b>  
-  <img width="450" alt="Visitor Pass" src="https://github.com/user-attachments/assets/585791e5-af82-4a43-8e98-4b9d72270a22" />
+  <img height="230" alt="Visitor Pass" src="https://github.com/user-attachments/assets/585791e5-af82-4a43-8e98-4b9d72270a22" />
 
   <b>Admin Login</b>  
   <img width="450" alt="Admin Login" src="https://github.com/user-attachments/assets/f3904dd3-b249-4bc2-a899-a47d0ea83627" />
@@ -72,7 +72,7 @@ The application was successfully deployed for internal use and actively supports
   <img width="450" alt="VR-1" src="https://github.com/user-attachments/assets/b720edb4-02f7-487a-979f-a04d5b971be8" />
   <img width="450" alt="VR-2" src="https://github.com/user-attachments/assets/80bebab7-bbc7-4506-a609-7a473ebdf3f6" />
   <img width="450" alt="VR-3" src="https://github.com/user-attachments/assets/8f1b225e-dc79-45f4-8782-ecf60561ecae" />
-  <img height="225" alt="VR-4" src="https://github.com/user-attachments/assets/c04822d0-db59-43ba-b644-01f20584786a" />
+  <img height="230" alt="VR-4" src="https://github.com/user-attachments/assets/c04822d0-db59-43ba-b644-01f20584786a" />
 
 </p>
 
